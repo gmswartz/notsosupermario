@@ -1,4 +1,4 @@
-# supermario
+# notsosupermario
 Not So Super Mario Bros
 Author: Grace Swartz (gswartz@chapman.edu)
 Class: CPSC350-02
