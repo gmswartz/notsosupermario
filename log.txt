@@ -1,0 +1,551 @@
+Level: 1
+kmmkb
+xgkmk
+kwgxm
+gcmgx
+cxccg
+
+Level: 2
+mkmwc
+xcxkx
+kggkk
+gxmbm
+ggcxc
+
+Level: 3
+ccgxg
+cmgkm
+xxkxg
+xgmmb
+kkckc
+
+=====================
+Current Level: 1
+kmmkb
+xgkHk
+kwgxm
+gcmgx
+cxccg
+
+Mario is at position (2,4). Mario is at power level 0.
+Mario will move UP. He encountered a koopa! Mario has defeated the Koopa!
+Mario has 3 lives. He has 0 coin(s).
+
+=====================
+Current Level: 1
+kmmHb
+xgkxk
+kwgxm
+gcmgx
+cxccg
+
+Mario is at position (1,4). Mario is at power level 0.
+Mario will move UP. He collected a coin! 
+Mario has 3 lives. He has 1 coin(s).
+
+=====================
+Current Level: 1
+kmmxb
+xgkxk
+kwgxm
+gcmgx
+cxcHg
+
+Mario is at position (5,4). Mario is at power level 0.
+Mario will move LEFT. He collected a coin! 
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmmxb
+xgkxk
+kwgxm
+gcmgx
+cxHxg
+
+Mario is at position (5,3). Mario is at power level 0.
+Mario will move RIGHT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmmxb
+xgkxk
+kwgxm
+gcmgx
+cxxHg
+
+Mario is at position (5,4). Mario is at power level 0.
+Mario will move DOWN. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmmHb
+xgkxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (1,4). Mario is at power level 0.
+Mario will move UP. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmmxb
+xgkxk
+kwgxm
+gcmgx
+cxxHg
+
+Mario is at position (5,4). Mario is at power level 0.
+Mario will move DOWN. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmmHb
+xgkxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (1,4). Mario is at power level 0.
+Mario will move LEFT. He ate a mushroom! Mario is now at PL1
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmHxb
+xgkxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (1,3). Mario is at power level 1.
+Mario will move DOWN. He encountered a koopa! Mario has defeated the Koopa!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xgHxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,3). Mario is at power level 1.
+Mario will move RIGHT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xgxHk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,4). Mario is at power level 1.
+Mario will move LEFT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xgHxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,3). Mario is at power level 1.
+Mario will move LEFT. He encountered a goomba! Mario has defeated the Goomba!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xHxxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,2). Mario is at power level 1.
+Mario will move LEFT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+Hxxxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,1). Mario is at power level 1.
+Mario will move RIGHT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xHxxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,2). Mario is at power level 1.
+Mario will move RIGHT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xxHxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,3). Mario is at power level 1.
+Mario will move LEFT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xHxxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,2). Mario is at power level 1.
+Mario will move LEFT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+Hxxxk
+kwgxm
+gcmgx
+cxxxg
+
+Mario is at position (2,1). Mario is at power level 1.
+Mario will move DOWN. He encountered a koopa! Mario has defeated the Koopa!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 1
+kmxxb
+xxxxk
+Hwgxm
+gcmgx
+cxxxg
+
+Mario is at position (3,1). Mario is at power level 1.
+Mario will move RIGHT. He encountered a warp pipe! Mario will move to the next level!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwH
+xcxkx
+kggkk
+gxmbm
+ggcxc
+
+Mario is at position (1,5). Mario is at power level 1.
+Mario will move DOWN. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkH
+kggkk
+gxmbm
+ggcxc
+
+Mario is at position (2,5). Mario is at power level 1.
+Mario will move UP. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwH
+xcxkx
+kggkk
+gxmbm
+ggcxc
+
+Mario is at position (1,5). Mario is at power level 1.
+Mario will move DOWN. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkH
+kggkk
+gxmbm
+ggcxc
+
+Mario is at position (2,5). Mario is at power level 1.
+Mario will move DOWN. He encountered a koopa! Mario has defeated the Koopa!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkH
+gxmbm
+ggcxc
+
+Mario is at position (3,5). Mario is at power level 1.
+Mario will move DOWN. He ate a mushroom! Mario is now at PL2
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+gxmbH
+ggcxc
+
+Mario is at position (4,5). Mario is at power level 2.
+Mario will move RIGHT. He encountered a goomba! Mario has defeated the Goomba!
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+Hxmbx
+ggcxc
+
+Mario is at position (4,1). Mario is at power level 2.
+Mario will move RIGHT. He found nothing.
+Mario has 3 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+xHmbx
+ggcxc
+
+Mario is at position (4,2). Mario is at power level 2.
+Mario will move DOWN. He encountered a goomba! Mario has defeated the Goomba!Mario has defeated 7 enemies on the same life, so another life has been gained!
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+xxmbx
+gHcxc
+
+Mario is at position (5,2). Mario is at power level 2.
+Mario will move LEFT. He encountered a goomba! Mario has defeated the Goomba!
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+xxmbx
+Hxcxc
+
+Mario is at position (5,1). Mario is at power level 2.
+Mario will move UP. He found nothing.
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+Hxmbx
+xxcxc
+
+Mario is at position (4,1). Mario is at power level 2.
+Mario will move RIGHT. He found nothing.
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+xHmbx
+xxcxc
+
+Mario is at position (4,2). Mario is at power level 2.
+Mario will move LEFT. He found nothing.
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+Hxmbx
+xxcxc
+
+Mario is at position (4,1). Mario is at power level 2.
+Mario will move DOWN. He found nothing.
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+mkmwx
+xcxkx
+kggkx
+xxmbx
+Hxcxc
+
+Mario is at position (5,1). Mario is at power level 2.
+Mario will move DOWN. He ate a mushroom! Mario has reached his maximum power level!
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+Hkmwx
+xcxkx
+kggkx
+xxmbx
+xxcxc
+
+Mario is at position (1,1). Mario is at power level 2.
+Mario will move RIGHT. He encountered a koopa! Mario has defeated the Koopa!
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+xHmwx
+xcxkx
+kggkx
+xxmbx
+xxcxc
+
+Mario is at position (1,2). Mario is at power level 2.
+Mario will move UP. He found nothing.
+Mario has 4 lives. He has 2 coin(s).
+
+=====================
+Current Level: 2
+xxmwx
+xcxkx
+kggkx
+xxmbx
+xHcxc
+
+Mario is at position (5,2). Mario is at power level 2.
+Mario will move RIGHT. He collected a coin! 
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 2
+xxmwx
+xcxkx
+kggkx
+xxmbx
+xxHxc
+
+Mario is at position (5,3). Mario is at power level 2.
+Mario will move LEFT. He found nothing.
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 2
+xxmwx
+xcxkx
+kggkx
+xxmbx
+xHxxc
+
+Mario is at position (5,2). Mario is at power level 2.
+Mario will move RIGHT. He found nothing.
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 2
+xxmwx
+xcxkx
+kggkx
+xxmbx
+xxHxc
+
+Mario is at position (5,3). Mario is at power level 2.
+Mario will move DOWN. He ate a mushroom! Mario has reached his maximum power level!
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 2
+xxHwx
+xcxkx
+kggkx
+xxmbx
+xxxxc
+
+Mario is at position (1,3). Mario is at power level 2.
+Mario will move RIGHT. He encountered a warp pipe! Mario will move to the next level!
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 3
+ccgxg
+cmHkm
+xxkxg
+xgmmb
+kkckc
+
+Mario is at position (2,3). Mario is at power level 2.
+Mario will move DOWN. He encountered a koopa! Mario lost to the Koopa, his power level is now 1
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 3
+ccgxg
+cmxkm
+xxHxg
+xgmmb
+kkckc
+
+Mario is at position (3,3). Mario is at power level 1.
+Mario will move DOWN. He ate a mushroom! Mario is now at PL2
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 3
+ccgxg
+cmxkm
+xxxxg
+xgHmb
+kkckc
+
+Mario is at position (4,3). Mario is at power level 2.
+Mario will move RIGHT. He ate a mushroom! Mario has reached his maximum power level!
+Mario has 4 lives. He has 3 coin(s).
+
+=====================
+Current Level: 3
+ccgxg
+cmxkm
+xxxxg
+xgxHb
+kkckc
+
+Mario is at position (4,4). Mario is at power level 2.
+Mario will move UP. He encountered the level boss!
+Mario has 4 lives. He has 3 coin(s).
+
+MARIO WINS! Game Over :)
+THE PRINCESS IS SAVED IN 44 MOVES!!
